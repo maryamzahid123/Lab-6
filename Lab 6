@@ -5,3 +5,5 @@ Grocery items.Add("Detergents");
 Grocery items.Add("pulses and beans");
 Grocery items.Add("Pack of tissues");
 Grocery items.Add("snacks");
+
+Grocery items.Add("Frozen Vegetables");
